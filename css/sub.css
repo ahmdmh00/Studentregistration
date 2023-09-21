@@ -1,0 +1,15 @@
+@keyframes submitAnimation {
+  0% {
+    background-color: white;
+  }
+  50% {
+    background-color: #a8e6cf;
+  }
+  100% {
+    background-color: white;
+  }
+}
+
+.form-submitted {
+  animation: submitAnimation 2s;
+}

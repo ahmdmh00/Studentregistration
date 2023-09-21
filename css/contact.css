@@ -1,0 +1,743 @@
+<!doctype html>
+<html lang="en" dir="rtl">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="This IS Discription">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta property="og:locale" content="ar_AR"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:site_name" content="وزارة الأوقاف والشؤون الدنينية - غزة - فلسطين"/>
+        <title>وزارة الأوقاف والشؤون الدينية</title>
+
+    <!--Css Files -->
+    <link href="https://palwakf.ps/ar/frontend/css/fontawesome.min.css" rel="stylesheet">
+    <link href="https://palwakf.ps/ar/frontend/css/brands.min.css" rel="stylesheet">
+    <link href="https://palwakf.ps/ar/frontend/css/solid.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://palwakf.ps/ar/frontend/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://palwakf.ps/ar/frontend/css/animate.css">
+    <link
+        rel="stylesheet"
+        href="https://palwakf.ps/ar/frontend/css/material-design-iconic-font.min.css">
+        <link rel="stylesheet" href="https://palwakf.ps/ar/frontend/css/select2.css">
+    <link rel="stylesheet" href="https://palwakf.ps/ar/frontend/css/style.css">
+    <!--FavIcone -->
+    <link
+        rel="shortcut icon"
+        href="https://palwakf.ps/ar/frontend/images/favicon-logo.png"
+        type="image/x-icon">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media
+    queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]> <script
+        src="https://palwakf.ps/ar/frontend/js/html5shiv.min.js"></script> <script
+        src="https://palwakf.ps/ar/frontend/js/respond.min.js"></script> <![endif]-->
+
+</head>
+<body class="    static-page contact_us
+">
+<!-- Start Main Header -->
+
+<section class="main-header">
+    <div class="container">
+        <!-- Start Navbar -->
+        <nav class="navbar navbar-expand-lg">
+            <a class="navbar-brand" href="https://palwakf.ps/ar"><img src="https://palwakf.ps/ar/frontend/images/logo.png"
+                                                                          alt="logo"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <div class="collapse navbar-collapse flex-end" id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                    <li class="nav-item website-media">
+                        <a class="nav-link " href="https://palwakf.ps/ar/media-center">
+                            <span class="sr-only">(current)</span>
+                            المركز الإعلامي <span class="hover-link"></span></a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            الادارات والمديريات
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li class="nav-item dropdown">
+                                <a class="dropdown-item dropdown-toggle" href="#" id="navbarDropdown2" role="button"
+                                   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    مديريات الاوقاف
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="navbarDropdown2">
+                                                                            <li>
+                                            <a class="dropdown-item"
+                                               href="https://palwakf.ps/ar/department/2">
+                                                أوقــاف الشمـال
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="dropdown-item"
+                                               href="https://palwakf.ps/ar/department/3">
+                                                أوقــاف غــــــزة
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="dropdown-item"
+                                               href="https://palwakf.ps/ar/department/4">
+                                                أوقاف الوسـطى
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="dropdown-item"
+                                               href="https://palwakf.ps/ar/department/5">
+                                                أوقاف خانيونس
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="dropdown-item"
+                                               href="https://palwakf.ps/ar/department/6">
+                                                أوقــاف رفـــــح
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="dropdown-item"
+                                               href="https://palwakf.ps/ar/department/473">
+                                                أوقاف خان يونس
+                                            </a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="dropdown-item dropdown-toggle" href="#" id="navbarDropdown2" role="button"
+                                   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    الإدارات العامة
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="navbarDropdown2">
+                                                                            <li>
+                                            <a class="dropdown-item"
+                                               href="https://palwakf.ps/ar/department/7">
+                                                العمل النسائي
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="dropdown-item"
+                                               href="https://palwakf.ps/ar/department/8">
+                                                صندوق الزكـاة
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="dropdown-item"
+                                               href="https://palwakf.ps/ar/department/9">
+                                                التحفيــــــــظ
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="dropdown-item"
+                                               href="https://palwakf.ps/ar/department/10">
+                                                الوعظ والارشاد
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="dropdown-item"
+                                               href="https://palwakf.ps/ar/department/11">
+                                                الحـج والعمـرة
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="dropdown-item"
+                                               href="https://palwakf.ps/ar/department/474">
+                                                كلية الدعوة الإسلامية المقر الرئيس
+                                            </a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                                                    </ul>
+                    </li>
+                                            <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                عن الوزارة
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                                    <a class="dropdown-item"
+                                       href="https://palwakf.ps/ar/post-details/3796/%D8%A7%D9%84%D9%86%D8%B4%D8%A3%D8%A9">النشأة</a>
+                                                                    <a class="dropdown-item"
+                                       href="https://palwakf.ps/ar/post-details/3797/%D8%A7%D9%84%D8%B1%D8%A4%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D9%82%D9%8A%D9%85">الرؤية والرسالة والقيم</a>
+                                                                    <a class="dropdown-item"
+                                       href="https://palwakf.ps/ar/post-details/4150/%D9%85%D8%AC%D8%A7%D9%84%D8%A7%D8%AA-%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D9%88%D9%88%D8%AD%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%84">مجالات عمل الوزارة الرئيسة ووحدات العمل</a>
+                                                                    <a class="dropdown-item"
+                                       href="https://palwakf.ps/ar/post-details/4151/%D8%A7%D9%84%D8%BA%D8%A7%D9%8A%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9">الغايات والأهداف الاستراتيجية</a>
+                                                                <a class="dropdown-item"
+                                   href="https://palwakf.ps/ar/reports">التقارير</a>
+                                <a class="dropdown-item"
+                                   href="https://palwakf.ps/ar/guides">الأدلة</a>
+                            </div>
+                        </li>
+                                        <li class="nav-item">
+                        <a class="nav-link last-link" href="https://palwakf.ps/ar/eservices">
+                            الخدمات الإلكترونية
+                            <span class="hover-link"></span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link last-link" href="https://palwakf.ps/ar/contact">
+                            اتصل بنا<span class="hover-link"></span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link last-link icon-search" href="#"><i class="fa fa-search "></i></a>
+                    </li>
+                </ul>
+                <!-- Start Div Search -->
+                <div class="box-search">
+                    <form action="https://palwakf.ps/ar/search" method="get">
+                        <input type="text" class="form-control input-search" name="search_term">
+                    </form>
+                </div>
+                <!-- End Div Search -->
+            </div>
+        </nav>
+        <div class="clearfix"></div>
+
+        <!-- End Navbar -->
+    </div>
+</section>
+    <!-- Start News Details Section -->
+    <section class="">
+        <!-- Start News Details -->
+        <div class="container">
+            <!-- Start Breadcrumbs -->
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="https://palwakf.ps/ar">الرئيسية</a></li>
+                    <li class="breadcrumb-item"><i class="fas fa-chevron-left"></i></li>
+                    <li class="breadcrumb-item active" aria-current="page">الصفحات</li>
+                    <li class="breadcrumb-item"><i class="fas fa-chevron-left"></i></li>
+                    <li class="breadcrumb-item active" aria-current="page">عن الوزارة</li>
+                </ol>
+            </nav>
+            <!-- End Breadcrumbs -->
+
+            <!-- Start Content Albume -->
+            <section class="contactus-sec">
+                <div class="container">
+                    <!-- Start Row Map -->
+                    <div class="row map-sec">
+                        <!-- Start Col -->
+                        <div class="col-lg-4">
+                            <div class="info-map">
+                                <h3>مقرات العمل الحكومي لوزارة الأوقاف</h3>
+                                <ul class="list-unstyled">
+                                                                            <a href="#" class="department-locations" department-id="1"
+                                           department-lat="" department-lng="">
+                                            <li>الوزارة</li>
+                                        </a>
+                                                                            <a href="#" class="department-locations" department-id="7"
+                                           department-lat="" department-lng="">
+                                            <li>العمل النسائي</li>
+                                        </a>
+                                                                            <a href="#" class="department-locations" department-id="8"
+                                           department-lat="" department-lng="">
+                                            <li>صندوق الزكـاة</li>
+                                        </a>
+                                                                            <a href="#" class="department-locations" department-id="9"
+                                           department-lat="" department-lng="">
+                                            <li>التحفيــــــــظ</li>
+                                        </a>
+                                                                            <a href="#" class="department-locations" department-id="10"
+                                           department-lat="" department-lng="">
+                                            <li>الوعظ والارشاد</li>
+                                        </a>
+                                                                            <a href="#" class="department-locations" department-id="11"
+                                           department-lat="" department-lng="">
+                                            <li>الحـج والعمـرة</li>
+                                        </a>
+                                                                            <a href="#" class="department-locations" department-id="474"
+                                           department-lat="" department-lng="">
+                                            <li>كلية الدعوة الإسلامية المقر الرئيس</li>
+                                        </a>
+                                                                            <a href="#" class="department-locations" department-id="2"
+                                           department-lat="31.540306" department-lng="34.511533">
+                                            <li>أوقــاف الشمـال</li>
+                                        </a>
+                                                                            <a href="#" class="department-locations" department-id="3"
+                                           department-lat="" department-lng="">
+                                            <li>أوقــاف غــــــزة</li>
+                                        </a>
+                                                                            <a href="#" class="department-locations" department-id="4"
+                                           department-lat="" department-lng="">
+                                            <li>أوقاف الوسـطى</li>
+                                        </a>
+                                                                            <a href="#" class="department-locations" department-id="5"
+                                           department-lat="" department-lng="">
+                                            <li>أوقاف خانيونس</li>
+                                        </a>
+                                                                            <a href="#" class="department-locations" department-id="6"
+                                           department-lat="" department-lng="">
+                                            <li>أوقــاف رفـــــح</li>
+                                        </a>
+                                                                            <a href="#" class="department-locations" department-id="473"
+                                           department-lat="" department-lng="">
+                                            <li>أوقاف خان يونس</li>
+                                        </a>
+                                                                    </ul>
+                            </div>
+                        </div>
+                        <!-- End Col -->
+                        <!-- Start Col -->
+                        <div class="col-lg-8">
+                            <div id="googleMap" style="width:100%;height:500px;"></div>
+                            
+                        </div>
+                        <!-- End Col -->
+
+                    </div>
+                    <!-- End Row Map -->
+                    <div class="row">
+                        <!-- start col -->
+                        <div class="col-lg-7">
+                            <form class="contactus-form" id="save-contact-form">
+                                <input type="hidden" name="_token" value="Uumala2gTHCDPfm4qTGgtDkFhJ9U3QuwKQafeArP">                                <h4 class="contactus-title">اتصل بنا</h4>
+                                <div class="input-box">
+                                    <!-- <label>الإسم</label> -->
+                                    <input name="name" type="text" class="form-control" placeholder="الإسم">
+                                </div>
+                                <div class="input-box">
+                                    <!-- <label>البريد الإلكتروني</label> -->
+                                    <input name="email" type="email" class="form-control"
+                                           placeholder="البريد الإلكتروني">
+                                </div>
+                                <div class="input-box">
+                                    <!-- <label>رقم الجوال</label> -->
+                                    <input name="mobile" type="text" class="form-control" placeholder="رقم الجوال">
+                                </div>
+                                <div class="input-box">
+                                    <!-- <label>العنوان</label> -->
+                                    <input name="address" type="text" class="form-control" placeholder="العنوان">
+                                </div>
+                                <div class="input-box">
+                                    <!-- <label>نوع الرسالة</label> -->
+                                    <select name="message_type_id" class="form-control kt-select2" name="">
+                                                                                    <option value="1">شكوى</option>
+                                                                                    <option value="2">ملاحظة</option>
+                                                                                    <option value="3">اقتراح</option>
+                                                                                    <option value="4">اعتداء على وقفية</option>
+                                                                            </select>
+                                </div>
+                                <div class="input-box">
+                                    <!-- <label>القسم</label> -->
+                                    <select name="department_id" class="form-control kt-select2" name="">
+                                                                                    <option value="1">الوزارة</option>
+                                                                                    <option value="7">العمل النسائي</option>
+                                                                                    <option value="8">صندوق الزكـاة</option>
+                                                                                    <option value="9">التحفيــــــــظ</option>
+                                                                                    <option value="10">الوعظ والارشاد</option>
+                                                                                    <option value="11">الحـج والعمـرة</option>
+                                                                                    <option value="474">كلية الدعوة الإسلامية المقر الرئيس</option>
+                                                                                    <option value="2">أوقــاف الشمـال</option>
+                                                                                    <option value="3">أوقــاف غــــــزة</option>
+                                                                                    <option value="4">أوقاف الوسـطى</option>
+                                                                                    <option value="5">أوقاف خانيونس</option>
+                                                                                    <option value="6">أوقــاف رفـــــح</option>
+                                                                                    <option value="473">أوقاف خان يونس</option>
+                                                                            </select>
+                                </div>
+                                <div class="input-box">
+                                    <!-- <label>التفاصيل</label> -->
+                                    <textarea name="message" class="form-control" placeholder="التفاصيل"></textarea>
+                                </div>
+                                <div class="input-box">
+                                    <input id="submit-contact" type="submit" class="btn btn-success btn-black"
+                                           value="إرسال">
+                                </div>
+                                <div class="clearfix"></div>
+                            </form>
+                        </div>
+                        <!-- end col -->
+                        <!-- start col -->
+                        <div class="col-lg-5">
+                            <div class="img-contact"
+                                 style="background:url(/frontend/images/contact-us/contact1.png)no-repeat center center">
+                            </div>
+                            <div class="info-contact">
+                                <h4 class="contactus-title">تواصل معنا</h4>
+                                <ul class="list-unstyled">
+                                    <li>غزة الرمال الجنوبي. مفترق أنصار</li>
+                                    <li><a href="mailto:info@palwakf.ps" class="english-font">info@palwakf.ps</a></li>
+                                    <li>
+                                        <bdi>(+970) 8-262-3106</bdi>
+                                    </li>
+                                    <li>
+                                        <bdi>(+970) 59-308-2300</bdi>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- end col -->
+                    </div><!-- End Row -->
+                </div> <!-- End container -->
+            </section>
+
+        </div>
+        <!-- End News Details -->
+    </section>
+    <!-- End News Details Section -->
+<!-- Start Links Footer -->
+<section class="links-footer">
+    <div class="container">
+        <!-- Start Grid System -->
+        <div class="row">
+            <!-- Star Col 3 -->
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <ul>
+                    <li>الرئيسية</li>
+                    <li><a href="https://palwakf.ps/ar/media-center">المركز الإعلامي</a></li>
+                    <li><a href="https://palwakf.ps/ar/fatawa">الفتاوى</a></li>
+                    <li><a href="https://palwakf.ps/ar/eservices">الخدمات الإلكترونية</a></li>
+                </ul>
+            </div>
+            <!-- End Col 3 -->
+            <!-- Star Col 3 -->
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <ul class="tags-links">
+                    <li>التصنيفات</li>
+                                                                        <li>
+                                <a href="https://palwakf.ps/ar/categories/1">
+                                    الأخبار</a>
+                                
+                            </li>
+                                                                                                <li>
+                                <a href="https://palwakf.ps/ar/categories/2">
+                                    ندوات ومؤتمرات</a>
+                                
+                            </li>
+                                                                                                <li>
+                                <a href="https://palwakf.ps/ar/categories/3">
+                                    بيانات وتصريحات</a>
+                                
+                            </li>
+                                                                                                <li>
+                                <a href="https://palwakf.ps/ar/categories/4">
+                                    نشرات وإصدارات</a>
+                                
+                            </li>
+                                                                                                <li>
+                                <a href="https://palwakf.ps/ar/categories/5">
+                                    مقالات</a>
+                                
+                            </li>
+                                                                                                <li>
+                                <a href="https://palwakf.ps/ar/categories/7">
+                                    الإعلانات والتعميمات</a>
+                                
+                            </li>
+                                                                                                <li>
+                                <a href="https://palwakf.ps/ar/categories/8">
+                                    صفحات</a>
+                                
+                            </li>
+                                                            </ul>
+            </div>
+            <!-- End Col 3 -->
+            <!-- Star Col 3 -->
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <ul class="en-social">
+                    <li>مواقع ذات صلة</li>
+                                            <li><a href="https://stayhome.palwakf.ps/" target="_blank">بيوت مطمئنة</a></li>
+                                            <li><a href="http://quranradiofm.com/" target="_blank">إذاعة القرآن الكريم - غزة</a></li>
+                                            <li><a href="https://www.facebook.com/FACULTYOFDAWA" target="_blank">كلية الدعوة الإسلامية</a></li>
+                                            <li><a href="https://elearning.palwakf.ps/" target="_blank">منصة التدريب الوقفية</a></li>
+                                    </ul>
+            </div>
+            <!-- End Col 3 -->
+            <!-- Star Col 3 -->
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <ul class="last-ul">
+                    <li>للتواصل معنا</li>
+                    <li><a href="#">غزة الرمال الجنوبي. مفترق أنصار</a></li>
+                    <li><a href="mailto:info@palwakf.ps" class="english-font">info@palwakf.ps</a></li>
+                    <li><a href="#">
+                            <bdi>(+970) 8-262-3106</bdi>
+                        </a></li>
+                    <li><a href="#">
+                            <bdi>(+970) 59-308-2300</bdi>
+                        </a></li>
+                </ul>
+            </div>
+            <!-- End Col 3 -->
+        </div>
+        <!-- End Grid System -->
+        <p class="copyright">جميع الحقوق محفوظة &copy; وزارة الأوقاف والشؤون الدينية</p>
+    </div>
+</section>
+<!-- End Links Footer -->
+<!-- Start Footer Section -->
+<section class="footer-sec">
+    <div class="container">
+        <!-- Start Button To Play Sound -->
+        <div class="btn-play">
+            <a href="#" class="fa-play-link">
+                <i class="fas fa-play audio-status-icon"></i>
+            </a>
+            <a href="http://quranradiofm.com/" class="position-title" target="_blank">إذاعة القران الكريم</a>
+        </div>
+        <audio id="live-radio" ontimeupdate="updateTime()"
+               src="https://palwakf.live.atyaf.co/;stream.mp3"></audio>
+
+        <div class="volume-box" style="display: none">
+            <div class="bg-white"></div>
+            <div class="bg-black"></div>
+            <div class="audio-control-1">
+                <i class="fas fa-volume-up"></i>
+                <div id="audio-time" style="color:white">0:00</div>
+            </div>
+        </div>
+        <!-- End Button To Play Sound -->
+        <ul class="list-unstyled list-inline">
+            <li class="list-inline-item">
+                <bdi> الفجر <span id="fajr" data-prayer="fajr">4:57</span></bdi>
+            </li>
+            
+            
+            
+            <li class="list-inline-item">
+                <bdi> الظهر <span id="zohr" data-prayer="zohr">12:38</span></bdi>
+            </li>
+            <li class="list-inline-item">
+                <bdi> العصر <span id="asr" data-prayer="asr">4:08</span></bdi>
+            </li>
+            <li class="list-inline-item">
+                <bdi> المغرب <span id="maghrib" data-prayer="maghrib">6:53</span></bdi>
+            </li>
+            <li class="list-inline-item">
+                <bdi> العشاء <span id="esha" data-prayer="esha">8:09</span></bdi>
+            </li>
+        </ul>
+    </div>
+</section>
+<!-- End Footer Section -->
+<!-- Start ScrolToTop Button -->
+<a class="scrollToTop" href="#">
+    <i class="fa fa-chevron-up"></i>
+</a>
+<!-- End ScrolToTop Button -->
+
+<!-- Start Fixed Social Media Div -->
+<section class="fixed-social">
+    <ul class="list-unstyled">
+                <li class="">
+            <a href="https://facebook.com/palwakfg" class="fb-a">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </li>
+                <li class="">
+            <a href="https://twitter.com/palwakfg" class="fb-a">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+                <li class="">
+            <a href="https://www.flickr.com/photos/wakfpress/" class="fb-a">
+                <i class="fab fa-flickr"></i>
+            </a>
+        </li>
+                <li class="">
+            <a href="https://www.youtube.com/user/palwakf" class="fb-a">
+                <i class="fab fa-youtube"></i>
+            </a>
+        </li>
+                <li class="">
+            <a href="https://www.instagram.com/palwakfg/" class="fb-a">
+                <i class="fab fa-instagram"></i>
+            </a>
+        </li>
+                <li class="">
+            <a href="https://t.me/palwakfg" class="fb-a">
+                <i class="fab fa-telegram"></i>
+            </a>
+        </li>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </ul>
+</section>
+<!-- End Fixed Social Media Div -->
+
+<!--JavaScript Files -->
+<script src="https://palwakf.ps/ar/frontend/js/jquery-3.2.1.js"></script>
+<script src="https://palwakf.ps/ar/frontend/js/popper.min.js"></script>
+<script defer="defer" src="https://palwakf.ps/ar/frontend/js/brands.min.js"></script>
+<script defer="defer" src="https://palwakf.ps/ar/frontend/js/solid.min.js"></script>
+<script defer="defer" src="https://palwakf.ps/ar/frontend/js/fontawesome.min.js"></script>
+<script src="https://palwakf.ps/ar/frontend/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+    <script src="https://palwakf.ps/ar/frontend/js/select2.js"></script>
+    <script>
+        $('.kt-select2').select2();
+
+        $('#submit-contact').click(function (e) {
+            e.preventDefault();
+            //alert(1111111);
+            $post = $.ajax({
+                url: 'https://palwakf.ps/ar/saveContact',
+                data: $('#save-contact-form').serialize(),
+                method: 'POST',
+                async: true,
+                cache: false
+            });
+
+            $post.done(function (result) {
+                Swal.fire({
+                    'title': result['title'],
+                    'text': result['message'],
+                    'icon': result['status'],
+                    onClose: () => {
+                        window.location.href = "https://palwakf.ps/ar";
+                    }
+                });
+            });
+
+            $post.fail(function (error) {
+                Swal.fire({
+                    'title': result['title'],
+                    'text': result['message'],
+                    'icon': result['status'],
+                    onClose: () => {
+                        window.location.href = "https://palwakf.ps/ar";
+                    }
+                });
+            });
+        });
+
+        var map = null;
+        $(document).ready(function () {
+            var mapProp = {
+                center: new google.maps.LatLng(, ),
+                zoom: 15,
+                zoomControl: true,
+                zoomControlOptions: {
+                    position: google.maps.ControlPosition.LEFT_CENTER
+                },
+                mapTypeControl: true,
+                mapTypeControlOptions: {
+                    style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+                    position: google.maps.ControlPosition.TOP_CENTER
+                }
+            };
+
+            map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
+
+                                                                                                                                                                                                                                                var uluru = {lat: 31.540306, lng: 34.511533};
+            var marker = new google.maps.Marker({position: uluru, map: map, 'title': 'أوقــاف الشمـال'});
+                                                                                                                                                                            });
+    </script>
+    <script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjOp2BjQx-ruFkTnb4mB_2m3eFtcCyPbU&callback=myMap&language=ar&region=ps"></script>
+<script src="https://palwakf.ps/ar/frontend/js/myjs.js"></script>
+
+<script>
+
+    var audio = document.getElementById('live-radio');
+
+    $(document).ready(function () {
+        $('.navbar-nav > li').removeClass("active");
+        $className = 'website - contact';
+        $('.' + $className).addClass("active");
+
+        var playing = false;
+
+        $('.fa-play-link').click(function (e) {
+            e.preventDefault();
+
+            if (playing == false) {
+                audio.play();
+                playing = true;
+                $(".audio-status-icon").removeClass('fa-play').addClass('fa-pause ');
+            } else {
+                audio.pause();
+                playing = false;
+                $(".audio-status-icon").removeClass('fa-pause').addClass('fa-play ');
+            }
+        });
+    });
+
+    function updateTime() {
+        var currentSeconds = (Math.floor(audio.currentTime % 60) < 10 ? '0' : '') + Math.floor(audio.currentTime % 60);
+        var currentMinutes = Math.floor(audio.currentTime / 60);
+        //Sets the current song location compared to the song duration.
+        document.getElementById('audio-time').innerHTML = currentMinutes + ":" + currentSeconds;
+
+        //Fills out the slider with the appropriate position.
+        var percentageOfSong = (audio.currentTime / audio.duration);
+        //var percentageOfSlider = document.getElementById('songSlider').offsetWidth * percentageOfSong;
+
+        //Updates the track progress div.
+        //document.getElementById('trackProgress').style.width = Math.round(percentageOfSlider) + "px";
+    }
+
+    function setNewVolume(obj, e) {
+        var volumeSliderWidth = obj.offsetWidth;
+        var evtobj = window.event ? event : e;
+        clickLocation = evtobj.layerX - obj.offsetLeft;
+
+        var percentage = (clickLocation / volumeSliderWidth);
+        setVolume(percentage);
+    }
+
+    function setVolume(percentage) {
+        audio.volume = percentage;
+
+        var percentageOfVolume = audio.volume / 1;
+        var percentageOfVolumeSlider = document.getElementById('audio-volume').offsetWidth * percentageOfVolume;
+
+        document.getElementById('audio-volume-status').style.width = Math.round(percentageOfVolumeSlider) + "px";
+    }
+    var currentPrayerTime = 'fajr';
+    var done = false;
+    var currentTimeObject = new Date();
+    var compareTimeObject = new Date();
+    const articles = document.querySelectorAll('.footer-sec span');
+
+    for (let i = 0; i < articles.length; i++) {;
+        var item = articles[i];
+        var prayer = item.id;
+        var time = item.innerHTML;
+        var time_sub = time.split(':');
+        if(!done){
+            if(i > 2){
+                compareTimeObject.setHours(parseInt(time_sub[0]) + 12);
+            }
+            else{
+                compareTimeObject.setHours(time_sub[0]);
+            }
+            compareTimeObject.setMinutes(time_sub[1]);
+            currentPrayerTime = prayer;
+            if(currentTimeObject < compareTimeObject){
+                done = true;
+            }
+        }
+    }
+    $('#' + currentPrayerTime).parent().parent().addClass('active');
+    //$('#live-radio').attr('src', 'http://62.210.106.9:8010/;stream.mp3');
+</script>
+
+</body>
+</html>
